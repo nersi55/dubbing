@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+.env
+.venv/
+*.log
+*.zip
+*.mp4
+*.wav
+*.srt
+temp/
+dubbing_work/
